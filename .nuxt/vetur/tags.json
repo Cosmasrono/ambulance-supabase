@@ -1,0 +1,26 @@
+{
+  "Cords": {
+    "description": "Auto imported from components/Cords.vue"
+  },
+  "DisplayMaps": {
+    "description": "Auto imported from components/DisplayMaps.vue"
+  },
+  "GeoMap": {
+    "description": "Auto imported from components/Geo-map.vue"
+  },
+  "Loader": {
+    "description": "Auto imported from components/Loader.vue"
+  },
+  "SendMail": {
+    "description": "Auto imported from components/SendMail.vue"
+  },
+  "Signup": {
+    "description": "Auto imported from components/Signup.vue"
+  },
+  "CurrentPlace": {
+    "description": "Auto imported from components/currentPlace.vue"
+  },
+  "Test": {
+    "description": "Auto imported from components/test.vue"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Category",
+    "path": "/Category",
+    "component": "/home/cossi/Downloads/location/pages/Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_5c6c93ce"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "/home/cossi/Downloads/location/pages/Login.vue",
+    "chunkName": "pages/Login",
+    "_name": "_646b056e"
+  },
+  {
+    "name": "Mailing",
+    "path": "/Mailing",
+    "component": "/home/cossi/Downloads/location/pages/Mailing.vue",
+    "chunkName": "pages/Mailing",
+    "_name": "_fc1e44aa"
+  },
+  {
+    "name": "Main",
+    "path": "/Main",
+    "component": "/home/cossi/Downloads/location/pages/Main.vue",
+    "chunkName": "pages/Main",
+    "_name": "_011e6309"
+  },
+  {
+    "name": "Maps",
+    "path": "/Maps",
+    "component": "/home/cossi/Downloads/location/pages/Maps.vue",
+    "chunkName": "pages/Maps",
+    "_name": "_0d56c4e7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/cossi/Downloads/location/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e69e8b5c"
+  }
+]
