@@ -13,4 +13,5 @@ You can directly use them in pages and other components without the need to impo
 - `<SendMail>` | `<send-mail>` (components/SendMail.vue)
 - `<Signup>` | `<signup>` (components/Signup.vue)
 - `<CurrentPlace>` | `<current-place>` (components/currentPlace.vue)
+- `<Page>` | `<page>` (components/page.vue)
 - `<Test>` | `<test>` (components/test.vue)

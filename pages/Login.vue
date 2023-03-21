@@ -143,7 +143,7 @@ export default {
         this.user = data.user.email;
         setTimeout(() => {
           this.$router.push("/Category");
-          this.loading = false;
+          this.loading = false; 
         }, 2000);
 
         //this.$router.push("/Login");
@@ -159,7 +159,7 @@ export default {
   font-family: "Quantico", sans-serif;
   transition: all 0.2s ease-in-out;
   scroll-behavior: smooth;
-  background-color: cadetblue;
-  color: aliceblue;
+  
+   
 }
 </style>

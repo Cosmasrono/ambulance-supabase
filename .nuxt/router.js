@@ -4,11 +4,15 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
+const _83bfe362 = () => interopDefault(import('../pages/admin.vue' /* webpackChunkName: "pages/admin" */))
 const _5c6c93ce = () => interopDefault(import('../pages/Category.vue' /* webpackChunkName: "pages/Category" */))
+const _629c771e = () => interopDefault(import('../pages/help.vue' /* webpackChunkName: "pages/help" */))
 const _646b056e = () => interopDefault(import('../pages/Login.vue' /* webpackChunkName: "pages/Login" */))
 const _fc1e44aa = () => interopDefault(import('../pages/Mailing.vue' /* webpackChunkName: "pages/Mailing" */))
 const _011e6309 = () => interopDefault(import('../pages/Main.vue' /* webpackChunkName: "pages/Main" */))
+const _74297a95 = () => interopDefault(import('../pages/manage.vue' /* webpackChunkName: "pages/manage" */))
 const _0d56c4e7 = () => interopDefault(import('../pages/Maps.vue' /* webpackChunkName: "pages/Maps" */))
+const _5bcad6f0 = () => interopDefault(import('../pages/users.vue' /* webpackChunkName: "pages/users" */))
 const _e69e8b5c = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -23,9 +27,17 @@ export const routerOptions = {
   scrollBehavior,
 
   routes: [{
+    path: "/admin",
+    component: _83bfe362,
+    name: "admin"
+  }, {
     path: "/Category",
     component: _5c6c93ce,
     name: "Category"
+  }, {
+    path: "/help",
+    component: _629c771e,
+    name: "help"
   }, {
     path: "/Login",
     component: _646b056e,
@@ -39,9 +51,17 @@ export const routerOptions = {
     component: _011e6309,
     name: "Main"
   }, {
+    path: "/manage",
+    component: _74297a95,
+    name: "manage"
+  }, {
     path: "/Maps",
     component: _0d56c4e7,
     name: "Maps"
+  }, {
+    path: "/users",
+    component: _5bcad6f0,
+    name: "users"
   }, {
     path: "/",
     component: _e69e8b5c,

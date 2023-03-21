@@ -1,10 +1,24 @@
 [
   {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/home/cossi/Downloads/location/pages/admin.vue",
+    "chunkName": "pages/admin",
+    "_name": "_83bfe362"
+  },
+  {
     "name": "Category",
     "path": "/Category",
     "component": "/home/cossi/Downloads/location/pages/Category.vue",
     "chunkName": "pages/Category",
     "_name": "_5c6c93ce"
+  },
+  {
+    "name": "help",
+    "path": "/help",
+    "component": "/home/cossi/Downloads/location/pages/help.vue",
+    "chunkName": "pages/help",
+    "_name": "_629c771e"
   },
   {
     "name": "Login",
@@ -28,11 +42,25 @@
     "_name": "_011e6309"
   },
   {
+    "name": "manage",
+    "path": "/manage",
+    "component": "/home/cossi/Downloads/location/pages/manage.vue",
+    "chunkName": "pages/manage",
+    "_name": "_74297a95"
+  },
+  {
     "name": "Maps",
     "path": "/Maps",
     "component": "/home/cossi/Downloads/location/pages/Maps.vue",
     "chunkName": "pages/Maps",
     "_name": "_0d56c4e7"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "/home/cossi/Downloads/location/pages/users.vue",
+    "chunkName": "pages/users",
+    "_name": "_5bcad6f0"
   },
   {
     "name": "index",

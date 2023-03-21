@@ -20,6 +20,9 @@
   "CurrentPlace": {
     "description": "Auto imported from components/currentPlace.vue"
   },
+  "Page": {
+    "description": "Auto imported from components/page.vue"
+  },
   "Test": {
     "description": "Auto imported from components/test.vue"
   }

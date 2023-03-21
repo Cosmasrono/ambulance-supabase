@@ -5,6 +5,7 @@ export const Loader = () => import('../../components/Loader.vue' /* webpackChunk
 export const SendMail = () => import('../../components/SendMail.vue' /* webpackChunkName: "components/send-mail" */).then(c => wrapFunctional(c.default || c))
 export const Signup = () => import('../../components/Signup.vue' /* webpackChunkName: "components/signup" */).then(c => wrapFunctional(c.default || c))
 export const CurrentPlace = () => import('../../components/currentPlace.vue' /* webpackChunkName: "components/current-place" */).then(c => wrapFunctional(c.default || c))
+export const Page = () => import('../../components/page.vue' /* webpackChunkName: "components/page" */).then(c => wrapFunctional(c.default || c))
 export const Test = () => import('../../components/test.vue' /* webpackChunkName: "components/test" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
