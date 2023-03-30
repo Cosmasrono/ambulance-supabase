@@ -65,7 +65,7 @@
       console.log('Error inserting data:', error.message)
     } else {
       alert('okey we are checking on you:', data)
-      this.$router.push('/login')
+      this.$router.push('/help')
     }
   }
 }

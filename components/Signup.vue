@@ -108,6 +108,7 @@
 </template>
 
 <script>
+
 import { createClient } from "@supabase/supabase-js";
 export default {
   name: "Register",

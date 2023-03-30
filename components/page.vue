@@ -88,6 +88,14 @@
                       >
                       <button class=" ">Admin</button>
                     </Nuxt-link>
+
+
+                    <Nuxt-link
+                      to="/donate"
+                      class="     flex  items-center justify-center rounded-md border border-transparent h-10 bg-gradient-to-r from-blue-800 via-blue-600 to-pink-400 px-4  py-2 text-base  font-bold text-white hover:bg-slate-700 md:py-3 m-3 md:px-10 md:text-xl"
+                      >
+                      <button class=" ">donate</button>
+                    </Nuxt-link>
                   </div>
                  
                 </div>
@@ -115,20 +123,9 @@
    
   </template>
   
-  <script>
-  
-  </script>
-  
-  <style></style>
-       
-
+ 
 <script>
 
 </script>
-
-<style>
  
-
-
-</style>
 
