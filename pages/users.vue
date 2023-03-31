@@ -1,6 +1,6 @@
 <template >
-    <div class=" bg-slate-200 container mx-auto p-4">
-      <form class="bg-slate-200 rounded-lg shadow-md p-8">
+    <div class=" bg-slate-200 container mx-auto p-4 ">
+      <form class="bg-slate-200 rounded-lg shadow-md p-8 ml-20 mr-20">
         <h2 class="text-2xl font-bold mb-4">Ambulance Booking Form</h2>
         <div class="mb-4">
           
@@ -28,8 +28,8 @@
             id="stylist"
           >
             <option value="">Choose a ambulance</option>
-            <option value="John">option 1</option>
-            <option value="Jane">option 2</option>
+            <option value="John">KDK 567K</option>
+            <option value="Jane">KCA 907R</option>
             <option value="Sarah">option 2</option>
           </select>
         </div>
@@ -75,6 +75,11 @@
             </script>
            
            <style>
+            body{
+              margin-right: 6cm;
+              margin-left: 6cm;
+
+            }
            
            </style> 
   

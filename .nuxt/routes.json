@@ -21,6 +21,13 @@
     "_name": "_0f81929f"
   },
   {
+    "name": "donors",
+    "path": "/donors",
+    "component": "/home/cossi/Downloads/location/pages/donors.vue",
+    "chunkName": "pages/donors",
+    "_name": "_1d173006"
+  },
+  {
     "name": "help",
     "path": "/help",
     "component": "/home/cossi/Downloads/location/pages/help.vue",

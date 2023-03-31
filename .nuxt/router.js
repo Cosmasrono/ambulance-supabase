@@ -7,6 +7,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _83bfe362 = () => interopDefault(import('../pages/admin.vue' /* webpackChunkName: "pages/admin" */))
 const _5c6c93ce = () => interopDefault(import('../pages/Category.vue' /* webpackChunkName: "pages/Category" */))
 const _0f81929f = () => interopDefault(import('../pages/donate.vue' /* webpackChunkName: "pages/donate" */))
+const _1d173006 = () => interopDefault(import('../pages/donors.vue' /* webpackChunkName: "pages/donors" */))
 const _629c771e = () => interopDefault(import('../pages/help.vue' /* webpackChunkName: "pages/help" */))
 const _646b056e = () => interopDefault(import('../pages/Login.vue' /* webpackChunkName: "pages/Login" */))
 const _fc1e44aa = () => interopDefault(import('../pages/Mailing.vue' /* webpackChunkName: "pages/Mailing" */))
@@ -39,6 +40,10 @@ export const routerOptions = {
     path: "/donate",
     component: _0f81929f,
     name: "donate"
+  }, {
+    path: "/donors",
+    component: _1d173006,
+    name: "donors"
   }, {
     path: "/help",
     component: _629c771e,
